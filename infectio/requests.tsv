@@ -1,0 +1,1007 @@
+OpenTerm	en	de		examples
+germs		Keime		Erreger und Resistenz
+resist		Resistenzen		MRSA
+fungi		Pilze		Erreger und Resistenz Pilze
+fungi+		Pilze erweitert		
+pasi		Parasiten		Multires.gramneg.St�be VRE
+				
+mrsa		Methicillin resistenter Staphylococcus aureus		Multires.gramneg.St�be
+vre		Vancomycin resistenter Enterococcus		VRE
+				
+mr		Multiresistenz		
+sta.au:mr		multiresistenter Staphylococcus aureus		Multires.gramneg.St�be
+sta.au:mr:pcr		MRSA PCR Direktnachweis		
+enco.faci:mr		multiresistenter Enterococcus faecium		VRE
+clos.diff		Clostridium difficile		Erreger und Resistenz Gram-Pr�parat
+				Clostridium difficile Erreger und Resistenz
+				PCR MRSA Direktnachweis .
+				Endokarditis Erreger und Resistenz
+				Clostridium difficile
+				multiresistenter Pseudomonas
+				Legionellen-Nachweis
+				Pilze Pilze erweitert
+				Erreger und Resistenz Gram-Pr�parat Pilze
+				Erreger und Resistenz Gram-Pr�parat Pilze Pilze erweitert
+				PCR Mycobact.tuberculosis Direktnachweis Tuberkulose
+				MRSA PCR MRSA Direktnachweis .
+				S.aureus PVL positiv
+				Pilze
+				Erreger und Resistenz Legionellen-Nachweis
+				Tuberkulose
+				Erreger und Resistenz Pilze Pilze erweitert
+				Clostridium difficile VRE
+				Pneumocystis carinii/jiroveci
+				Gram-Pr�parat
+				PCR Chlamydia pneumoniae
+				Erreger und Resistenz Gram-Pr�parat Pilze erweitert
+				Parasiten
+				Clostridium difficile Erreger und Resistenz Pilze
+				Studie B
+				Multires.gramneg.St�be VRE multiresistenter Pseudomonas
+				Clostridium difficile multiresistenter Pseudomonas
+				Endokarditis
+				Multires.gramneg.St�be multiresistenter Pseudomonas
+				PCR auf Chlamydia trachomatis
+				Studie B VRE
+				Clostridium difficile VRE multiresistenter Pseudomonas
+				Clostridium difficile Multires.gramneg.St�be VRE
+				Clostridium difficile Erreger und Resistenz Parasiten Pilze
+				VRE multiresistenter Pseudomonas
+				PCR Toxoplasma gondii
+				Erreger und Resistenz Pilze erweitert
+				PCR Mycobact.tuberculosis Direktnachweis
+				Gram-Pr�parat Parasiten
+				CF Cystische Fibrose
+				Pilze erweitert
+				Erreger und Resistenz Legionellen-Nachweis Pilze
+				CF Cystische Fibrose Erreger und Resistenz
+				Erreger und Resistenz Gram-Pr�parat PCR auf Eubakterien PCR auf Pilze allgemein Pilze Pilze erweitert
+				Erreger und Resistenz Parasiten
+				Erreger und Resistenz Gram-Pr�parat PCR auf Eubakterien
+				PCR Tropheryma whipplei
+				Screening Pilze
+				Campylobacter Clostridium difficile Salmonellen Shigellen Yersinien
+				PCR Listeria monocytogenes PCR Toxoplasma gondii
+				Acinetobacter Multires.gramneg.St�be
+				PCR auf Eubakterien
+				Acanthamoeba
+				Clostridium difficile Screening Pilze VRE
+				Erreger und Resistenz S.aureus PVL positiv
+				Bruzellose Endokarditis Erreger und Resistenz
+				CF Cystische Fibrose Erreger und Resistenz Gram-Pr�parat
+				Campylobacter Clostridium difficile EHEC / EPEC Salmonellen Shigellen Yersinien
+				Campylobacter
+				Acanthamoeba Erreger und Resistenz Gram-Pr�parat PCR auf Eubakterien PCR auf Pilze allgemein Pilze Pilze erweitert
+				Erreger und Resistenz Pneumocystis carinii/jiroveci
+				H�molysierende Streptokokken
+				PCD Primary Ciliary Dyskinesia
+				PCR auf Chlamydia trachomatis PCR auf Neisseria gonorrhoeae
+				PCR Listeria monocytogenes
+				Erreger und Resistenz Pilze erweitert Pneumocystis carinii/jiroveci
+				Erreger und Resistenz Gram-Pr�parat PCR Listeria monocytogenes
+				Erreger und Resistenz Gram-Pr�parat Pilze Pneumocystis carinii/jiroveci
+				Clostridium difficile Erreger und Resistenz Parasiten
+				Clostridium difficile Multires.gramneg.St�be VRE multiresistenter Pseudomonas
+				Legionellen-Nachweis Mycoplasma / Ureaplasma
+				Clostridium difficile Salmonellen
+				Erreger und Resistenz Legionellen-Nachweis Mycoplasma / Ureaplasma
+				Erreger und Resistenz H�molysierende Streptokokken
+				Clostridium difficile Multires.gramneg.St�be
+				MRSA Studie B
+				PCR auf Eubakterien PCR auf Pilze allgemein
+				Erreger und Resistenz Gram-Pr�parat Pilze Pilze erweitert Pneumocystis carinii/jiroveci
+				PCR auf Neisseria gonorrhoeae
+				Endocarditis Erreger und Resistenz
+				Mycoplasma / Ureaplasma
+				Erreger und Resistenz Gram-Pr�parat Pneumocystis carinii/jiroveci
+				Multires.gramneg.St�be Screening Pilze multiresistenter Pseudomonas
+				Erreger und Resistenz Gram-Pr�parat Legionellen-Nachweis Pilze Pilze erweitert Pneumocystis carinii/jiroveci
+				Campylobacter Multires.gramneg.St�be Salmonellen Shigellen Yersinien
+				Clostridium difficile Screening Pilze VRE multiresistenter Pseudomonas
+				Legionellen-Nachweis Pneumocystis carinii/jiroveci
+				Cryptococcus neoformans . PCR Toxoplasma gondii
+				Erreger und Resistenz Gram-Pr�parat Legionellen-Nachweis Pilze Pneumocystis carinii/jiroveci
+				Acanthamoeba Erreger und Resistenz Gram-Pr�parat Pilze Pilze erweitert
+				Clostridium difficile Multires.gramneg.St�be multiresistenter Pseudomonas
+				Clostridium difficile Screening Pilze
+				CF Cystische Fibrose Erreger und Resistenz Gram-Pr�parat Pilze
+				Erreger und Resistenz Mycoplasma / Ureaplasma PCR Chlamydia pneumoniae
+				Bruzellose Erreger und Resistenz
+				Erreger und Resistenz Gram-Pr�parat Legionellen-Nachweis Pilze
+				Erreger und Resistenz Gram-Pr�parat Legionellen-Nachweis Mycoplasma / Ureaplasma PCR Bordetella pertussis PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae PCR Ureapl.ureal. / Mycopl. pneumoniae Pilze Pneumocystis carinii/jiroveci
+				PCR Bordetella pertussis
+				Clostridium difficile H�molysierende Streptokokken Multires.gramneg.St�be Screening Pilze VRE
+				Erreger und Resistenz Legionellen-Nachweis Pilze Pneumocystis carinii/jiroveci
+				Erreger und Resistenz Mycoplasma / Ureaplasma
+				Erreger und Resistenz PCR Toxoplasma gondii PCR Tropheryma whipplei Pilze
+				Erreger und Resistenz H�molysierende Streptokokken Pilze
+				Clostridium difficile Parasiten
+				Campylobacter Clostridium difficile Salmonellen Shigellen VRE Yersinien
+				Multires.gramneg.St�be Screening Pilze
+				Campylobacter Clostridium difficile Salmonellen Shigellen
+				PCR Mycoplasma pneumoniae
+				Clostridium difficile Salmonellen Yersinien
+				Campylobacter Clostridium difficile Salmonellen Shigellen VRE Vibrionen Yersinien multiresistenter Pseudomonas
+				Erreger und Resistenz PCR auf Eubakterien
+				Acanthamoeba Erreger und Resistenz Pilze
+				Erreger und Resistenz Gram-Pr�parat Parasiten Pilze
+				PCR Bartonella henselae
+				Leptospiren
+				Pilze Pilze erweitert Pneumocystis carinii/jiroveci
+				Campylobacter Clostridium difficile Multires.gramneg.St�be Salmonellen Shigellen VRE Yersinien
+				Erreger und Resistenz Gram-Pr�parat PCR Toxoplasma gondii Pilze
+				PCR Bartonella henselae PCR auf Eubakterien PCR nach R�cksprache
+				Erreger und Resistenz Gram-Pr�parat Mycoplasma / Ureaplasma Pilze Pneumocystis carinii/jiroveci
+				Clostridium difficile Parasiten Salmonellen Screening Pilze VRE
+				Legionellen-Nachweis Mycoplasma / Ureaplasma Pneumocystis carinii/jiroveci
+				Cryptococcus neoformans . Erreger und Resistenz Gram-Pr�parat PCR Toxoplasma gondii PCR auf Eubakterien
+				Erreger und Resistenz Gram-Pr�parat Pilze erweitert S.aureus PVL positiv
+				Acinetobacter H�molysierende Streptokokken Multires.gramneg.St�be Screening Pilze VRE multiresistenter Pseudomonas
+				Erreger und Resistenz Gonokokken Pilze
+				Erreger und Resistenz Gram-Pr�parat Legionellen-Nachweis Pilze Pilze erweitert
+				Erreger und Resistenz Gram-Pr�parat Legionellen-Nachweis
+				Erreger und Resistenz Mycoplasma / Ureaplasma PCR Chlamydia pneumoniae Pneumocystis carinii/jiroveci
+				Legionellen-Nachweis PCR Ureapl.ureal. / Mycopl. pneumoniae
+				Erreger und Resistenz Gram-Pr�parat Legionellen-Nachweis Mycoplasma / Ureaplasma Pneumocystis carinii/jiroveci
+				CF Cystische Fibrose Erreger und Resistenz Gram-Pr�parat Pilze Pilze erweitert
+				CF Cystische Fibrose Erreger und Resistenz Pilze Pilze erweitert
+				Erreger und Resistenz Legionellen-Nachweis PCR Ureapl.ureal. / Mycopl. pneumoniae Pilze Pneumocystis carinii/jiroveci
+				Clostridium difficile Salmonellen VRE
+				Acinetobacter H�molysierende Streptokokken Multires.gramneg.St�be multiresistenter Pseudomonas
+				Acinetobacter Multires.gramneg.St�be VRE multiresistenter Pseudomonas
+				Acinetobacter Multires.gramneg.St�be multiresistenter Pseudomonas
+				Campylobacter EHEC / EPEC Salmonellen Screening Pilze Shigellen VRE
+				Campylobacter Salmonellen Screening Pilze Shigellen VRE
+				EHEC / EPEC
+				Acinetobacter Campylobacter Clostridium difficile Multires.gramneg.St�be Salmonellen Shigellen VRE Yersinien multiresistenter Pseudomonas
+				Clostridium difficile Salmonellen Shigellen Yersinien multiresistenter Pseudomonas
+				Erreger und Resistenz Gram-Pr�parat PCR Toxoplasma gondii Pilze erweitert
+				Cryptococcus neoformans . Erreger und Resistenz PCR Toxoplasma gondii Parasiten Pilze
+				Erreger und Resistenz PCR Listeria monocytogenes
+				Clostridium difficile Shigellen Yersinien
+				Erreger und Resistenz Gram-Pr�parat Mycoplasma / Ureaplasma Pilze Pilze erweitert Pneumocystis carinii/jiroveci
+				PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae
+				Clostridium difficile Salmonellen Shigellen Yersinien
+				Erreger und Resistenz Parasiten Pilze
+				Erreger und Resistenz Pilze Pilze erweitert S.aureus PVL positiv
+				Cryptosporidien / Giardia lambia Erreger und Resistenz Pilze Pilze erweitert
+				Campylobacter Clostridium difficile Parasiten Salmonellen Shigellen Yersinien
+				. MRSA
+				Clostridium difficile Erreger und Resistenz H�molysierende Streptokokken Parasiten Pilze
+				Acinetobacter Clostridium difficile Cryptosporidien / Giardia lambia H�molysierende Streptokokken Multires.gramneg.St�be Multires.gramneg.St�be NeoP�d Parasiten Salmonellen Screening Pilze VRE multiresistenter Pseudomonas
+				Clostridium difficile Cryptosporidien / Giardia lambia Parasiten Salmonellen VRE
+				Erreger und Resistenz PCR auf Pilze allgemein Pilze Pilze erweitert
+				Erreger und Resistenz pilze
+				Cryptococcus neoformans . Erreger und Resistenz Gram-Pr�parat Legionellen-Nachweis PCR auf Eubakterien PCR auf Pilze allgemein Parasiten
+				Legionellen-Nachweis Leptospiren
+				Acinetobacter Clostridium difficile VRE multiresistenter Pseudomonas
+				Clostridium difficile Parasiten Salmonellen
+				Erreger und Resistenz Gram-Pr�parat PCR Chlamydia pneumoniae
+				Clostridium difficile Parasiten Pilze
+				Erreger und Resistenz Gram-Pr�parat PCR Borrelia burgdorferi PCR Listeria monocytogenes PCR Toxoplasma gondii Pilze
+				Erreger und Resistenz Pilze Pneumocystis carinii/jiroveci
+				Cryptococcus neoformans . Erreger und Resistenz Gram-Pr�parat PCR Listeria monocytogenes Pilze Pilze erweitert
+				Erreger und Resistenz PCR Chlamydia pneumoniae Pilze
+				Malaria
+				Campylobacter Clostridium difficile Salmonellen Shigellen Vibrionen Yersinien multiresistenter Pseudomonas
+				Cryptococcus neoformans . PCR Listeria monocytogenes PCR Toxoplasma gondii PCR Tropheryma whipplei PCR auf Eubakterien PCR auf Pilze allgemein
+				Salmonellen
+				Cryptococcus neoformans .
+				H�molysierende Streptokokken Multires.gramneg.St�be VRE
+				Erreger und Resistenz Gram-Pr�parat Pilze erweitert atypischeMykobakterien
+				Erreger und Resistenz PCR auf Eubakterien PCR auf Pilze allgemein Pilze erweitert
+				Cryptosporidien / Giardia lambia
+				Cryptococcus neoformans . Erreger und Resistenz Gram-Pr�parat Pilze
+				Acinetobacter Clostridium difficile
+				PCR auf Eubakterien PCR auf Pilze allgemein Pilze Pilze erweitert
+				Cryptococcus neoformans . Erreger und Resistenz Gram-Pr�parat PCR Toxoplasma gondii PCR auf Pilze allgemein Pilze Pilze erweitert
+				Erreger und Resistenz Gonokokken Mycoplasma / Ureaplasma Pilze
+				Cryptococcus neoformans . Erreger und Resistenz Gram-Pr�parat Legionellen-Nachweis PCR Toxoplasma gondii Parasiten Pilze Pilze erweitert
+				Campylobacter Clostridium difficile Salmonellen Shigellen Vibrionen Yersinien
+				Campylobacter Clostridium difficile Multires.gramneg.St�be Salmonellen Shigellen VRE Yersinien multiresistenter Pseudomonas
+				H�molysierende Streptokokken Multires.gramneg.St�be
+				PCR auf Pilze allgemein
+				PCR Toxoplasma gondii PCR auf Pilze allgemein
+				Cryptococcus neoformans . Legionellen-Nachweis PCR Listeria monocytogenes PCR auf Eubakterien PCR auf Pilze allgemein Parasiten Pilze
+				Campylobacter Salmonellen Shigellen Yersinien
+				Erreger und Resistenz Gram-Pr�parat PCR auf Eubakterien PCR auf Pilze allgemein Pilze
+				Endokarditis Erreger und Resistenz Pilze
+				Parasiten Screening Pilze
+				Erreger und Resistenz Mycoplasma / Ureaplasma Pilze
+				Erreger und Resistenz Gram-Pr�parat PCR Borrelia burgdorferi PCR Listeria monocytogenes PCR Mycoplasma pneumoniae PCR Toxoplasma gondii
+				
+				Erreger und Resistenz Gram-Pr�parat PCR Borrelia burgdorferi PCR Chlamydia pneumoniae PCR Listeria monocytogenes PCR Mycoplasma pneumoniae PCR Tropheryma whipplei PCR Ureapl.ureal. / Mycopl. pneumoniae PCR auf Eubakterien PCR auf Pilze allgemein Parasiten Pilze Pilze erweitert
+				Erreger und Resistenz PCR auf Eubakterien Pilze
+				Clostridium difficile Multires.gramneg.St�be Multires.gramneg.St�be NeoP�d VRE multiresistenter Pseudomonas
+				Campylobacter Clostridium difficile Salmonellen Shigellen VRE Vibrionen Yersinien
+				Erreger und Resistenz Legionellen-Nachweis PCR Ureapl.ureal. / Mycopl. pneumoniae
+				Cryptococcus neoformans . Erreger und Resistenz Pilze
+				Cryptococcus neoformans . PCR auf Eubakterien
+				PCR auf Eubakterien PCR auf Pilze allgemein Pilze
+				Clostridium difficile Multires.gramneg.St�be Screening Pilze VRE
+				Acinetobacter Campylobacter Cryptosporidien / Giardia lambia Parasiten Salmonellen Shigellen Yersinien
+				PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae Pneumocystis carinii/jiroveci
+				PCR Ureapl.ureal. / Mycopl. pneumoniae
+				Clostridium difficile Salmonellen Shigellen
+				Erreger und Resistenz Legionellen-Nachweis PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae
+				Gram-Pr�parat PCR Listeria monocytogenes
+				Erreger und Resistenz Gram-Pr�parat H�molysierende Streptokokken
+				Erreger und Resistenz PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae PCR auf Eubakterien Pilze
+				PCR Tropheryma whipple
+				Clostridium difficile Multires.gramneg.St�be Screening Pilze
+				Erreger und Resistenz Gram-Pr�parat PCR Listeria monocytogenes PCR auf Eubakterien PCR auf Pilze allgemein
+				Erreger und Resistenz PCR Mycoplasma pneumoniae PCR Ureapl.ureal. / Mycopl. pneumoniae
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
