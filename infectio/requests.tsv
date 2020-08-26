@@ -1,6 +1,6 @@
 OpenTerm	en	de		examples
-germs		Keime		Erreger und Resistenz
-resist		Resistenzen		MRSA
+germs	germs	Keime		Erreger und Resistenz
+resist	resistencies	Resistenzen		MRSA
 fungi		Pilze		Erreger und Resistenz Pilze
 fungi+		Pilze erweitert		
 pasi		Parasiten		Multires.gramneg.St�be VRE
