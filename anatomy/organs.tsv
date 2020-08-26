@@ -1,0 +1,42 @@
+OpenTerm20	la	gr	de	en
+cor	cor	kardia	Herz	heart
+pul	pulmo	pneumon	Lunge	lung
+iec / hep	iecur	hepar	Leber	liver
+fel	fel		Gallenblase	gal bladder
+panc??	??	pancreas	Bauchspeicheldrüse	
+lien	lien	splen	Milz	
+dia	praecordia	diaphragma	Zwerchfell	
+				
+int	intestinum		Darm	
+int.ten	intestinum tenue		Dünndarm	
+int.duo	duodenum		Zwölffingerdarm	
+int.jej	jejunum			
+int.ill	illeum			
+int.cra	intestinum crassum	 	Dickdarm	
+caec	caecum		Blinddarm	
+caec.app	appendix vermiformis			
+int.col	colon			
+col.asc	ascendens			
+col.tra	transversum			
+col.des	descedens			
+col.sig	colon sigmoideum			
+col.rec	rectum			
+				
+adren	glandula adrenalis		Nebenniere	
+ren	ren	nephros	Niere	kidney
+uter??	??	ureter	Harnleiter	
+vesuri	vesica urinaria		Harnblase	
+uthra??	??	urethra	Harnröhre	
+				
+				
+ova	ovar	oophoron	Eierstock	
+tubute	tuba uterina	salpinx	Eileiter	
+ute	uterus	hystera	Gebärmutter	
+vag	vagina			
+				
+tes	testiculus	orchis	Hoden	
+ducdef	ductus deferens		Samenleiter	
+pros??		prostata	Vorsteherdrüse	
+pen	penis	peos		
+				
+thyr	glandula thyoridea		Schilddrüse	

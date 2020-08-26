@@ -1,0 +1,64 @@
+OpenTerm20	example	la	gr	de	en
+cap		caput		Kopf	head
+cap.fro		os frontale		Stirnbein	
+cap.par		os parietale		Scheitelbein	
+cap.occ		os occipitale		Hinterhauptbein	
+cap.tem		os temporale		Schlöfenbein	
+cap.sph		os sphenoidale		Keilbein	
+cap.eth		os ethmoidale		Siebbein	
+cap.zyg		os zygomaticum		Jochbein	
+cap.max		maxilla		Oberkiefer	
+cap.man		mandibula		Unterkiefer	
+cap.nas		os nasale		Nasenbein	
+cap.lac		os lacrimale		Tränenbein	
+cap.pal		os palatinum		Gaumenbein	
+cap.vom		vomer		Pflugscharbein  	
+					
+bra		brachium		Arm 	arm
+bra.hum		humerus		Oberarmknochen  	
+bra.rad		radius		Speiche 	
+bra.ul		ulna		Elle    	
+					
+man		manus		Hand	hand
+man.sca		os scaphoideum		Kahnbein	
+man.lun		os lunatum		Mondbein	
+man.tri		os triquetrum		Dreiecksbein	
+man.pis		os pisiforme		Erbsenbein	
+man.tra					
+man.tro					
+man.cap					
+man.ham					
+man.dig		digitus		Finger	finger
+man.dig.2				Zeigefinger	
+man.dig.4.0				Mittelhandknochen des Ringfingers	
+man.dig.1.1				Grundglied des Daumens	
+					
+cru		crus		Bein	leg
+cru.fem		femur		Schienbein	
+cru.tib		tibia		Wadenbein	
+cru.fib		fibula			
+					
+pes		pes		Fuss	foot
+pes.tal		talus			
+pes.cal		calcaneus			
+pes.nav		os naviculare			
+pes.cun	pes.cun.1	os cuneiforme 1 - 3			
+pes.cub		os cuboideum			
+pes.dig		digitus		Zeh	toe
+					
+tho		thorax		Brustkorb	
+tho.sca		scapula		Schulterblatt	
+tho.cla		clavicula		Schlüsselbein	
+tho.ste		sternum		Brustbein	
+tho.ste.xi		processus xiphoideus			
+					
+tho.cos	cos.5	costa		Rippe 1-12	
+ver	ver.t7	vertebra		Wirbel c1-7  t1-12  l1-5 s1-5	
+					
+pel		pelvis		Becken	
+pel.il		os ilium		Darmbein	
+pel.is		os ischii		Sitzbein	
+pel.pub		os pubis		Schambein	
+pel.sac		os sacrum		Kreuzbein	
+					
+pel.sac.1	== ver.s1				
