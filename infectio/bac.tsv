@@ -1,278 +1,280 @@
 OpenTerm	la	SNOMED
-esch.coli	escherichia coli	112283007
-cand.albi	candida albicans	53326005
-sta.aure	staphylococcus aureus	3092008
-enco.faci	enterococcus faecium	90272000
-pseu.aeru	pseudomonas aeruginosa	52499004
-sta.epi	staphylococcus epidermidis	60875001
-enco.faca	enterococcus faecalis	78065002
-cand.gla	candida glabrata	444877006
-enba.*clo	enterobacter cloacae complex	414102007
-klebsi.pneu.pneu	klebsiella pneumoniae ssp pneumoniae	18400002
-prot.mira	proteus mirabilis	73457008
-klebsi.oxy	klebsiella oxytoca	40886007
-sta.haemo	staphylococcus haemolyticus	83452006
-citro.freu	citrobacter freundii	6265002
-cand.trop	candida tropicalis	47885008
-citro.kos	citrobacter koseri	114264004
-serra.marc	serratia marcescens	33522002
-	klebsiella aerogenes	62592009
-steno.mal	stenotrophomonas maltophilia	113697002
-	cutibacterium acnes	39473003
-mor.mor.mor	morganella morganii ssp morganii	243302003
-strep.cons	streptococcus constellatus	76199005
-sta.capi	staphylococcus capitis	40347003
-haem.painf	haemophilus parainfluenzae	51593004
-sta.homi.homi	staphylococcus hominis ssp hominis	432505008
-klebsi.vari	klebsiella variicola	431976004
-strep.aga	streptococcus agalactiae	43492007
-haem.inf	haemophilus influenzae	44470000
-cand.dubli	candida dubliniensis	115952006
-	acinetobacter baumannii complex	113376007
-lacto.	lactobacillus sp.	43690008
-strep.angi	streptococcus anginosus	44304009
-achro.xylo.xylo	achromobacter xylosoxidans	423897003
-pro.*vul	proteus vulgaris group	45834001
-cand.krus	candida krusei	76995003
-strep.pyo	streptococcus pyogenes	80166006
-neiss.sufla	neisseria subflava	77700001
-strep.pneu	streptococcus pneumoniae	9861002
-raoul.orni	raoultella ornithinolytica	416832000
-baci.cere	bacillus cereus	84408007
-strep.*miora	streptococcus mitis/streptococcus oralis	127539005
-strep.dys.dys	streptococcus dysgalactiae ssp dysgalactiae	113982002
-	unbekannter erreger, stammdaten anpassen	
-cand.para	candida parapsilosis	61302002
-hafni.alve	hafnia alvei	76694001
-pseu.puti	pseudomonas putida	68608003
-citro.bra	citrobacter braakii	114262000
-sta.homi	staphylococcus hominis	44827007
-strep.sali	streptococcus salivarius	39888004
-cory.stria	corynebacterium striatum	63815007
-enco.galli	enterococcus gallinarum	53233007
-sta.capa	staphylococcus caprae	76969000
-bacte.fragi	bacteroides fragilis	55247009
-haem.paha	haemophilus parahaemolyticus	89800007
-cory.amy	corynebacterium amycolatum	113611002
-	no growth	
-strep.ora	streptococcus oralis	19870004
-baci.	bacillus species	44762009
-lacto.rham	lactobacillus rhamnosus	113798001
-strep.in	streptococcus intermedius	62170002
-strep.pasang	streptococcus parasanguinis	113990002
-strep.vesti	streptococcus vestibularis	113998009
-	moraxella catarrhalis	24226003
-pseu.citro	pseudomonas citronellosis	31277003
-saccha.visi	saccharomyces cerevisiae	58296003
-sta.lug	staphylococcus lugdunensis	103494005
-..	vergrünende streptokokken	31703004
-bacte.theta	bacteroides thetaiotaomicron	34236001
-preve.mela	prevotella melaninogenica	114144004
-strep.miti	streptococcus mitis	57997003
-prot.haus	proteus hauseri	417592004
-bacte.ova	bacteroides ovatus	86936008
-citro.ama	citrobacter amalonaticus	55744003
-entco.avi	enterococcus avium	87875008
-neiss.	neisseria species	59083001
-rothi.muc	rothia mucilaginosa	416544005
-	actinomyces odontolyticus	12069003
-lacto.ferm	lactobacillus fermentum	65506008
-neiss.muco	neisseria mucosa	81795000
-sta.sim	staphylococcus simulans	52122005
-bacte.vulga	bacteroides vulgatus	52798008
-cand.kefyr	candida kefyr	446237006
-cand.lusi	candida lusitaniae	47608006
-haem.haem	haemophilus haemolyticus	54950008
-prevo.bucca	prevotella buccae	114134001
-pseu.	pseudomonas spp	57032008
-sta.warn	staphylococcus warneri	63550006
-aci.john	acinetobacter johnsonii	252000
-aci.	acinetobacter spp.	7757008
-gard.vagi	gardnerella vaginalis	64071004
-.	gram-negative stäbchenbakterien	87172008
-myco.tub	mycobacterium tuberculosis	113861009
-	acinetobacter radioresistens	113381003
-	aggregatibacter actinomycetemcomitans	442680008
-asper.fumi	aspergillus fumigatus	32684000
-fine.magna	finegoldia magna	417469002
-sta.koaneg?	koagulase negative staphylokokken	116197008
-panto.agglo	pantoea agglomerans	115015008
-pseu.stutz	pseudomonas stutzeri	58024003
-sta.pet	staphylococcus pettenkoferi	428731005
-aci.ursi	acinetobacter ursingii	424791004
-	bacteroides sp.	
-preve.denti	prevotella denticola	114138003
-provi.ret	providencia rettgeri	14196002
-provi.stu	providencia stuartii	1445008
-	staphylococcus species	
-	streptococcus mutans	
-strep.sang	streptococcus sanguinis	113993000
-aci.woff	acinetobacter lwoffii	83088009
-	campylobacter jejuni	
-clos.perf	clostridium perfringens	8331005
-cory.tub	corynebacterium tuberculostearicum	416356007
-	cutibacterium sp.	
-delf.aci	delftia acidovorans	20432002
-eike.corro	eikenella corrodens	52591004
-	elizabethkingia meningoseptica	
-	enterococcus casseliflavus	
-leuco.lacti	leuconostoc lactis	70285009
-neiss.flave	neisseria flavescens	
-serra.ure	serratia ureilytica	450416004
-.	streptococcus salivarius (viridans strep)	127537007
-	trichosporon asahii	
-	acinetobacter calcoaceticus-baumannii complex	
-	aerococcus sp.	
-baci.lichen	bacillus licheniformis	74867004
-baci.pumi	bacillus pumilus	16580009
-cand.gui	candida guilliermondii	16557001
-capno.	capnocytophaga spp	22294008
-cory.diph	corynebacterium pseudodiphtheriticum	12050008
-cory.	corynebacterium species	77086004
-	enterococcus spp	
-fuso.necro	fusobacterium necrophorum	27274008
-	fusobacterium sp.	
-mico.lut	micrococcus luteus	48299003
-mora.	moraxella group	0
-	moraxella/branhamella catarrhalis	
-pabac.dista	parabacteroides distasonis	447512008
-pedi.aci	pediococcus acidilactici	243237003
-prevo.bivi	prevotella bivia	114131009
-prevo.	prevotella sp.	114129000
-pseu.ory	pseudomonas oryzihabitans	113931000
-	serratia liquefaciens	
-	streptococcus gordonii	
-aci.juni	acinetobacter junii	13879009
-asper.niger	aspergillus niger	89354002
-	bacillus megaterium	
-	bacillus subtilis	
-baci.thuri	bacillus thuringiensis	64840009
-citro.farm	citrobacter farmeri	114263005
-	clostridium innocuum	
-	clostridium sporogenes	
-cory.acco	corynebacterium accolens	243254006
-enba.?	enterobakterien, identifizierung folgt.	
-fuso.nucle	fusobacterium nucleatum	32763000
-	gram positive kokken	
-lacto.gass	lactobacillus gasseri	71158000
-	mikroskopisch gram-positive kokken	
-	moraxella lacunata	
-neiss.meni	neisseria meningitidis	17872004
-prevo.disi	prevotella disiens	114139006
-	prevotella oralis	
-pseu.fluo	pseudomonas fluorescens	39289003
-raoul.planti	raoultella planticola	416264004
-	vagococcus fluvialis	
 ..	abiotrophia defectiva	113714003
 	achromobacter denitrificans	
-aci.*bau	acinetobacter baumannii	91288006
-aero.uri	aerococcus urinae	243230001
-	aeromonas caviae	
-anco.	anaerococcus sp.	413518000
-	citrobacter sedlakii	
-	clostridium paraputrificum	
-cory.auri	corynebacterium aurimucosum	385503009
-cory.propi	corynebacterium propinquum	113612009
-enba.	enterobacter species	58683007
-	enterococcus hirae	
-	flavobacterium species	
-	geotrichum candidum	
-	geotrichum capitatum	
-	haemophilus aphrophilus	
-haem.	haemophilus sp.	71268004
-lacto.case	lactobacillus casei	1017006
-	mikroskopisch gram-negative stäbchenbakterien	
-.	mikroskopisch gram-positive stäbchenbakterien	
-neiss.cine	neisseria cinerea	
-	neisseria elongata	
-	paenibacillus sp.	
-pedi.pento	pediococcus pentosaceus	243242006
-pepto.	peptoniphilus sp.	430742009
-prevo.medi	prevotella intermedia	114142000
-	pseudomonas koreeensis	
-.	schimmelpilze	84489001
-	serratia plymuthica	
-	staphylococcus cohnii	
-	staphylococcus cohnii ssp cohnii	
-	staphylococcus lentus	
-	staphylococcus pasteuri	
-sta.sac	staphylococcus saccharolyticus	41103009
-sta.?	staphylococcus sp. - identifizierung folgt	
-	streptococcus thoraltensis	
 	achromobacter species	
+achro.xylo.xylo	achromobacter xylosoxidans	423897003
+aci.*bau	acinetobacter baumannii	91288006
+	acinetobacter baumannii complex	113376007
+	acinetobacter calcoaceticus-baumannii complex	
+aci.john	acinetobacter johnsonii	252000
+aci.juni	acinetobacter junii	13879009
+aci.woff	acinetobacter lwoffii	83088009
+	acinetobacter radioresistens	113381003
+aci.	acinetobacter spp.	7757008
+aci.ursi	acinetobacter ursingii	424791004
 acti.scha	actinobaculum schaalii	716526006
 	actinomyces neuii	
+	actinomyces odontolyticus	12069003
+	aerococcus sp.	
+aero.uri	aerococcus urinae	243230001
 	aerococcus viridans	
+	aeromonas caviae	
+	aggregatibacter actinomycetemcomitans	442680008
 	alcaligenes faecalis ssp faecalis	
 .	anaerobier	59343002
+anco.	anaerococcus sp.	413518000
 	arthrobacter cumminsii	
 	arthrobacter species	
 	aspergillus flavus	
+asper.fumi	aspergillus fumigatus	32684000
+asper.niger	aspergillus niger	89354002
+baci.cere	bacillus cereus	84408007
 	bacillus circulans	
+baci.lichen	bacillus licheniformis	74867004
+	bacillus megaterium	
+baci.pumi	bacillus pumilus	16580009
+baci.	bacillus species	44762009
+	bacillus subtilis	
+baci.thuri	bacillus thuringiensis	64840009
 	bacteroides caccae	
+bacte.fragi	bacteroides fragilis	55247009
+bacte.ova	bacteroides ovatus	86936008
+	bacteroides sp.	
+bacte.theta	bacteroides thetaiotaomicron	34236001
 	bacteroides uniformis	
+bacte.vulga	bacteroides vulgatus	52798008
 	bifidobacterium dentium	
 bifi.	bifidobacterium spp	
 	brevundimonas diminuta/vesicularis	
 	burkholderia cepacia group	
 	burkholderia gladioli	
 burk.vora	burkholderia multivorans	113675004
+	campylobacter jejuni	
+cand.albi	candida albicans	53326005
+cand.dubli	candida dubliniensis	115952006
+cand.gla	candida glabrata	444877006
+cand.gui	candida guilliermondii	16557001
 cand.inco	candida inconspicua	283871001
+cand.kefyr	candida kefyr	446237006
+cand.krus	candida krusei	76995003
 	candida lambica	
+cand.lusi	candida lusitaniae	47608006
+cand.para	candida parapsilosis	61302002
 cand.	candida sp.	3265006
+cand.trop	candida tropicalis	47885008
+capno.	capnocytophaga spp	22294008
 	chryseobacterium indologenes	
+citro.ama	citrobacter amalonaticus	55744003
+citro.bra	citrobacter braakii	114262000
+citro.farm	citrobacter farmeri	114263005
+citro.freu	citrobacter freundii	6265002
+citro.kos	citrobacter koseri	114264004
+	citrobacter sedlakii	
 	clostridium clostridioforme	
+	clostridium innocuum	
+	clostridium paraputrificum	
+clos.perf	clostridium perfringens	8331005
 	clostridium species	
+	clostridium sporogenes	
 	collinsella aerofaciens	
+cory.acco	corynebacterium accolens	243254006
+cory.amy	corynebacterium amycolatum	113611002
+cory.auri	corynebacterium aurimucosum	385503009
 	corynebacterium minutissimum	
+cory.propi	corynebacterium propinquum	113612009
+cory.diph	corynebacterium pseudodiphtheriticum	12050008
+cory.	corynebacterium species	77086004
+cory.stria	corynebacterium striatum	63815007
+cory.tub	corynebacterium tuberculostearicum	416356007
+	cutibacterium acnes	39473003
+	cutibacterium sp.	
+delf.aci	delftia acidovorans	20432002
+eike.corro	eikenella corrodens	52591004
+	elizabethkingia meningoseptica	
 	enterobacter cloacae	
+enba.*clo	enterobacter cloacae complex	414102007
+enba.	enterobacter species	58683007
+enba.?	enterobakterien, identifizierung folgt.	
+entco.avi	enterococcus avium	87875008
+	enterococcus casseliflavus	
+enco.faca	enterococcus faecalis	78065002
+enco.faci	enterococcus faecium	90272000
+enco.galli	enterococcus gallinarum	53233007
+	enterococcus hirae	
 	enterococcus sp. - identifizierung folgt	
+	enterococcus spp	
+esch.coli	escherichia coli	112283007
 	escherichia hermannii	
+fine.magna	finegoldia magna	417469002
+	flavobacterium species	
+fuso.necro	fusobacterium necrophorum	27274008
+fuso.nucle	fusobacterium nucleatum	32763000
+	fusobacterium sp.	
+gard.vagi	gardnerella vaginalis	64071004
 	gemella haemolysans	
+	geotrichum candidum	
+	geotrichum capitatum	
+	gram positive kokken	
+.	gram-negative stäbchenbakterien	87172008
 	gram-negative stäbchenbakterien, identifizierung folgt	
 	gram-positive stäbchenbakterien	
 	granulicatella elegans	
+	haemophilus aphrophilus	
+haem.haem	haemophilus haemolyticus	54950008
+haem.inf	haemophilus influenzae	44470000
+haem.paha	haemophilus parahaemolyticus	89800007
+haem.painf	haemophilus parainfluenzae	51593004
+haem.	haemophilus sp.	71268004
+hafni.alve	hafnia alvei	76694001
 	hefen	
+	klebsiella aerogenes	62592009
+klebsi.oxy	klebsiella oxytoca	40886007
 klebsi.pneu	klebsiella pneumoniae	56415008
+klebsi.pneu.pneu	klebsiella pneumoniae ssp pneumoniae	18400002
 klebsi.	klebsiella spp	75032006
+klebsi.vari	klebsiella variicola	431976004
 	kluyvera ascorbata	
+sta.koaneg?	koagulase negative staphylokokken	116197008
 	kytococcus schroeteri	
+lacto.case	lactobacillus casei	1017006
+lacto.ferm	lactobacillus fermentum	65506008
+lacto.gass	lactobacillus gasseri	71158000
+lacto.rham	lactobacillus rhamnosus	113798001
+lacto.	lactobacillus sp.	43690008
 	lactococcus lactis ssp lactis	
 	leclercia adecarboxylata	
 	lelliottia amnigena	
+leuco.lacti	leuconostoc lactis	70285009
 	leuconostoc mesenteroides ssp cremoris	
+mico.lut	micrococcus luteus	48299003
 	micrococcus lylae	
+	mikroskopisch gram-negative stäbchenbakterien	
 	mikroskopisch gram-positive haufenkokken	
+	mikroskopisch gram-positive kokken	
+.	mikroskopisch gram-positive stäbchenbakterien	
+	moraxella catarrhalis	24226003
+mora.	moraxella group	0
+	moraxella lacunata	
+	moraxella/branhamella catarrhalis	
 mora.mor	morganella morganii	243301005
+mor.mor.mor	morganella morganii ssp morganii	243302003
 	mycobacterium intracellulare	
 	mycobacterium sp.	
+myco.tub	mycobacterium tuberculosis	113861009
+neiss.cine	neisseria cinerea	
+	neisseria elongata	
+neiss.flave	neisseria flavescens	
+neiss.meni	neisseria meningitidis	17872004
+neiss.muco	neisseria mucosa	81795000
+neiss.	neisseria species	59083001
+neiss.sufla	neisseria subflava	77700001
+	no growth	
 	nocardia sp.	
 	ochrobactrum sp.	
+	paenibacillus sp.	
+panto.agglo	pantoea agglomerans	115015008
 panto.	pantoea spp	115013001
+pabac.dista	parabacteroides distasonis	447512008
 	paracoccus yeeii	
 	pasteurella canis	
+pedi.aci	pediococcus acidilactici	243237003
+pedi.pento	pediococcus pentosaceus	243242006
+pepto.	peptoniphilus sp.	430742009
 	peptostreptococcus anaerobius	
 	peptostreptococcus sp.	
+prevo.bivi	prevotella bivia	114131009
+prevo.bucca	prevotella buccae	114134001
+preve.denti	prevotella denticola	114138003
+prevo.disi	prevotella disiens	114139006
+prevo.medi	prevotella intermedia	114142000
+preve.mela	prevotella melaninogenica	114144004
+	prevotella oralis	
 	prevotella oris	
+prevo.	prevotella sp.	114129000
+prot.haus	proteus hauseri	417592004
+prot.mira	proteus mirabilis	73457008
+pro.*vul	proteus vulgaris group	45834001
+provi.ret	providencia rettgeri	14196002
+provi.stu	providencia stuartii	1445008
+pseu.aeru	pseudomonas aeruginosa	52499004
+pseu.citro	pseudomonas citronellosis	31277003
+pseu.fluo	pseudomonas fluorescens	39289003
+	pseudomonas koreeensis	
+pseu.ory	pseudomonas oryzihabitans	113931000
+pseu.puti	pseudomonas putida	68608003
 	pseudomonas sp.-identifizierung folgt	
+pseu.	pseudomonas spp	57032008
+pseu.stutz	pseudomonas stutzeri	58024003
+raoul.orni	raoultella ornithinolytica	416832000
+raoul.planti	raoultella planticola	416264004
 rothi.dento	rothia dentocariosa	35379007
+rothi.muc	rothia mucilaginosa	416544005
 rothi.	rothia sp.	90163001
+saccha.visi	saccharomyces cerevisiae	58296003
 	salmonella spp.	
+.	schimmelpilze	84489001
+	serratia liquefaciens	
+serra.marc	serratia marcescens	33522002
+	serratia plymuthica	
+serra.ure	serratia ureilytica	450416004
 	sphingomonas paucimobilis	
 	staphylococcus arlettae	
+sta.aure	staphylococcus aureus	3092008
+sta.capi	staphylococcus capitis	40347003
+sta.capa	staphylococcus caprae	76969000
+	staphylococcus cohnii	
+	staphylococcus cohnii ssp cohnii	
+sta.epi	staphylococcus epidermidis	60875001
+sta.haemo	staphylococcus haemolyticus	83452006
+sta.homi	staphylococcus hominis	44827007
+sta.homi.homi	staphylococcus hominis ssp hominis	432505008
 	staphylococcus intermedius	
+	staphylococcus lentus	
+sta.lug	staphylococcus lugdunensis	103494005
+	staphylococcus pasteuri	
+sta.pet	staphylococcus pettenkoferi	428731005
+sta.sac	staphylococcus saccharolyticus	41103009
 sta.sap	staphylococcus saprophyticus	19743000
 sta.sch	staphylococcus schleiferi	
+sta.sim	staphylococcus simulans	52122005
+sta.?	staphylococcus sp. - identifizierung folgt	
 	staphylococcus sp. - koagulase negativ	
+	staphylococcus species	
+sta.warn	staphylococcus warneri	63550006
+steno.mal	stenotrophomonas maltophilia	113697002
+strep.aga	streptococcus agalactiae	43492007
+strep.angi	streptococcus anginosus	44304009
 strep.cani	streptococcus canis	88231003
+strep.cons	streptococcus constellatus	76199005
+strep.dys.dys	streptococcus dysgalactiae ssp dysgalactiae	113982002
 strep.gallo	streptococcus gallolyticus ssp gallolyticus	421544007
+	streptococcus gordonii	
+strep.in	streptococcus intermedius	62170002
+strep.miti	streptococcus mitis	57997003
+strep.*miora	streptococcus mitis/streptococcus oralis	127539005
+	streptococcus mutans	
+strep.ora	streptococcus oralis	19870004
+strep.pasang	streptococcus parasanguinis	113990002
+strep.pneu	streptococcus pneumoniae	9861002
 	streptococcus porcinus	
+strep.pyo	streptococcus pyogenes	80166006
+strep.sali	streptococcus salivarius	39888004
+.	streptococcus salivarius (viridans strep)	127537007
+strep.sang	streptococcus sanguinis	113993000
 strep.	streptococcus sp.	58800005
 	streptococcus thermophilus	
+	streptococcus thoraltensis	
+strep.vesti	streptococcus vestibularis	113998009
 	trichophyton mentagrophytes	
 	trichophyton rubrum	
 	trichophyton sp.	
+	trichosporon asahii	
 	trichosporon mucoides	
+	unbekannter erreger, stammdaten anpassen	
 	v.a. anaerobier	
+	vagococcus fluvialis	
 veill.sp	veillonella spp	29875005
+..	vergrünende streptokokken	31703004
 	yersinia frederiksenii	
+		
+		
