@@ -1,6 +1,17 @@
-OpenTerm	la	en	de
-cand.albi	candida albicans		
-cand.auri	candida auris		
-cand.glab	candida glabrata		
-aspi.fumi	aspergillus fumigatus		
-cryco.neo	cryptococcus neoformans		
+OpenTerm	la	en	de	SNOMED
+cand.albi	candida albicans			53326005
+cand.dubli	candida dubliniensis			115952006
+cand.gla	candida glabrata			444877006
+cand.gui	candida guilliermondii			16557001
+cand.inco	candida inconspicua			283871001
+cand.kefyr	candida kefyr			446237006
+cand.krus	candida krusei			76995003
+cand.lusi	candida lusitaniae			47608006
+cand.para	candida parapsilosis			61302002
+cand.	candida sp.			3265006
+cand.trop	candida tropicalis			47885008
+cand.auri	candida auris			
+				
+asper.fumi	aspergillus fumigatus	32684000		
+asper.niger	aspergillus niger	89354002		
+cryco.neo	cryptococcus neoformans			

@@ -1,5 +1,5 @@
 OpenTerm	la	SNOMED
-..	abiotrophia defectiva	113714003
+	abiotrophia defectiva	113714003
 	achromobacter denitrificans	
 	achromobacter species	
 achro.xylo.xylo	achromobacter xylosoxidans	423897003
@@ -26,8 +26,7 @@ anco.	anaerococcus sp.	413518000
 	arthrobacter cumminsii	
 	arthrobacter species	
 	aspergillus flavus	
-asper.fumi	aspergillus fumigatus	32684000
-asper.niger	aspergillus niger	89354002
+		
 baci.cere	bacillus cereus	84408007
 	bacillus circulans	
 baci.lichen	bacillus licheniformis	74867004
@@ -50,18 +49,7 @@ bifi.	bifidobacterium spp
 	burkholderia gladioli	
 burk.vora	burkholderia multivorans	113675004
 	campylobacter jejuni	
-cand.albi	candida albicans	53326005
-cand.dubli	candida dubliniensis	115952006
-cand.gla	candida glabrata	444877006
-cand.gui	candida guilliermondii	16557001
-cand.inco	candida inconspicua	283871001
-cand.kefyr	candida kefyr	446237006
-cand.krus	candida krusei	76995003
-	candida lambica	
-cand.lusi	candida lusitaniae	47608006
-cand.para	candida parapsilosis	61302002
-cand.	candida sp.	3265006
-cand.trop	candida tropicalis	47885008
+		
 capno.	capnocytophaga spp	22294008
 	chryseobacterium indologenes	
 citro.ama	citrobacter amalonaticus	55744003
