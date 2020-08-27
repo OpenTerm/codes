@@ -1,51 +1,51 @@
 OpenTerm	la	SNOMED
 		
 		
-staph.	staphylococcus species	
-staph.arle	staphylococcus arlettae	
-staph.aure	staphylococcus aureus	3092008
-staph.capi	staphylococcus capitis	40347003
-staph.capa	staphylococcus caprae	76969000
-staph.cohn	staphylococcus cohnii	
-staph.cohn.cohn	staphylococcus cohnii ssp cohnii	
-staph.epi	staphylococcus epidermidis	60875001
-staph.haemo	staphylococcus haemolyticus	83452006
-staph.homi	staphylococcus hominis	44827007
-staph.homi.homi	staphylococcus hominis ssp hominis	432505008
-staph.imed	staphylococcus intermedius	
-staph.lentus	staphylococcus lentus	
-staph.lugdu	staphylococcus lugdunensis	103494005
-staph.paste	staphylococcus pasteuri	
-staph.pette	staphylococcus pettenkoferi	428731005
-staph.saccha	staphylococcus saccharolyticus	41103009
-staph.sapro	staphylococcus saprophyticus	19743000
-staph.schleife	staphylococcus schleiferi	
-staph.simula	staphylococcus simulans	52122005
-staph.warne	staphylococcus warneri	63550006
+staphy.	staphylococcus species	
+staphy.arle	staphylococcus arlettae	
+staphy.aure	staphylococcus aureus	3092008
+staphy.capi	staphylococcus capitis	40347003
+staphy.capa	staphylococcus caprae	76969000
+staphy.cohn	staphylococcus cohnii	
+staphy.cohn.cohn	staphylococcus cohnii ssp cohnii	
+staphy.epi	staphylococcus epidermidis	60875001
+staphy.haemo	staphylococcus haemolyticus	83452006
+staphy.homi	staphylococcus hominis	44827007
+staphy.homi.homi	staphylococcus hominis ssp hominis	432505008
+staphy.imed	staphylococcus intermedius	
+staphy.lentus	staphylococcus lentus	
+staphy.lugdu	staphylococcus lugdunensis	103494005
+staphy.paste	staphylococcus pasteuri	
+staphy.pette	staphylococcus pettenkoferi	428731005
+staphy.saccha	staphylococcus saccharolyticus	41103009
+staphy.sapro	staphylococcus saprophyticus	19743000
+staphy.schleife	staphylococcus schleiferi	
+staphy.simula	staphylococcus simulans	52122005
+staphy.warne	staphylococcus warneri	63550006
 		
-strep.	streptococcus sp.	58800005
-strep.agala	streptococcus agalactiae	43492007
-strep.angino	streptococcus anginosus	44304009
-strep.cani	streptococcus canis	88231003
-strep.conste	streptococcus constellatus	76199005
-strep.dys.dys	streptococcus dysgalactiae ssp dysgalactiae	113982002
-strep.gallo	streptococcus gallolyticus ssp gallolyticus	421544007
-strep.gordo	streptococcus gordonii	
-strep.imed	streptococcus intermedius	62170002
-strep.mitis	streptococcus mitis	57997003
-strep.*miora	streptococcus mitis/streptococcus oralis	127539005
-strep.muta	streptococcus mutans	
-strep.ora	streptococcus oralis	19870004
-strep.pasang	streptococcus parasanguinis	113990002
-strep.pneumo	streptococcus pneumoniae	9861002
-strep.porci	streptococcus porcinus	
-strep.pyo	streptococcus pyogenes	80166006
-strep.saliva	streptococcus salivarius	39888004
-strep.saliva??	streptococcus salivarius (viridans strep)	127537007
-strep.sang	streptococcus sanguinis	113993000
-strep.thermo	streptococcus thermophilus	
-strep.thoral	streptococcus thoraltensis	
-strep.vesti	streptococcus vestibularis	113998009
+strepto.	streptococcus sp.	58800005
+strepto.agala	streptococcus agalactiae	43492007
+strepto.angino	streptococcus anginosus	44304009
+strepto.cani	streptococcus canis	88231003
+strepto.conste	streptococcus constellatus	76199005
+strepto.dys.dys	streptococcus dysgalactiae ssp dysgalactiae	113982002
+strepto.gallo	streptococcus gallolyticus ssp gallolyticus	421544007
+strepto.gordo	streptococcus gordonii	
+strepto.imed	streptococcus intermedius	62170002
+strepto.mitis	streptococcus mitis	57997003
+strepto.*miora	streptococcus mitis/streptococcus oralis	127539005
+strepto.muta	streptococcus mutans	
+strepto.ora	streptococcus oralis	19870004
+strepto.pasang	streptococcus parasanguinis	113990002
+strepto.pneumo	streptococcus pneumoniae	9861002
+strepto.porci	streptococcus porcinus	
+strepto.pyo	streptococcus pyogenes	80166006
+strepto.saliva	streptococcus salivarius	39888004
+strepto.saliva??	streptococcus salivarius (viridans strep)	127537007
+strepto.sang	streptococcus sanguinis	113993000
+strepto.thermo	streptococcus thermophilus	
+strepto.thoral	streptococcus thoraltensis	
+strepto.vesti	streptococcus vestibularis	113998009
 		
 		
 citro.ama	citrobacter amalonaticus	55744003
@@ -170,7 +170,7 @@ eike.corro	eikenella corrodens	52591004
 	elizabethkingia meningoseptica	
 		
 	kluyvera ascorbata	
-staph.koaneg?	koagulase negative staphylokokken	116197008
+staphy.koaneg?	koagulase negative staphylokokken	116197008
 	kytococcus schroeteri	
 	lactococcus lactis ssp lactis	
 	leclercia adecarboxylata	
