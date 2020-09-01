@@ -172,7 +172,7 @@ eike.corro	eikenella corrodens	52591004
 	kluyvera ascorbata	
 staphy.koaneg?	koagulase negative staphylokokken	116197008
 	kytococcus schroeteri	
-	lactococcus lactis ssp lactis	
+lacto.lacti.lacti	lactococcus lactis ssp lactis	
 	leclercia adecarboxylata	
 	lelliottia amnigena	
 leuco.lacti	leuconostoc lactis	70285009
@@ -183,14 +183,14 @@ mico.lut	micrococcus luteus	48299003
 	mikroskopisch gram-positive haufenkokken	
 	mikroskopisch gram-positive kokken	
 .	mikroskopisch gram-positive stäbchenbakterien	
-	moraxella catarrhalis	24226003
-mora.	moraxella group	0
-	moraxella lacunata	
+morax.cata	moraxella catarrhalis	24226003
+morax	moraxella group	0
+morax.lacu	moraxella lacunata	
 	moraxella/branhamella catarrhalis	
-mora.mor	morganella morganii	243301005
-mor.mor.mor	morganella morganii ssp morganii	243302003
-	mycobacterium intracellulare	
-	mycobacterium sp.	
+morga.morga	morganella morganii	243301005
+morga.morga.morga	morganella morganii ssp morganii	243302003
+myco.icel	mycobacterium intracellulare	
+myco	mycobacterium sp.	
 myco.tub	mycobacterium tuberculosis	113861009
 	no growth	
 	nocardia sp.	
@@ -199,7 +199,7 @@ myco.tub	mycobacterium tuberculosis	113861009
 panto.agglo	pantoea agglomerans	115015008
 panto.	pantoea spp	115013001
 pabac.dista	parabacteroides distasonis	447512008
-	paracoccus yeeii	
+pacoc.yee	paracoccus yeeii	
 	pasteurella canis	
 pedi.aci	pediococcus acidilactici	243237003
 pedi.pento	pediococcus pentosaceus	243242006
