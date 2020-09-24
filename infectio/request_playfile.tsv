@@ -1,8 +1,8 @@
 OpenTerm	de
-MRSA:swab:cul	Nase/Rachen Abstrich auf MRSA
+Sta.aur(MR):swab:cul	Nase/Rachen Abstrich auf MRSA
 eubac:specimen:cul	Erreger und Resistenz
-VRE:swab:cul	VRE
-MRGN:swab:cul	multiresistente Erreger
+Ent.fae(MR):Ent.fac(MR):swab:cul	VRE
+eugn(MR):swab:cul	multiresistente Erreger
 eubac:eufung:swab:cul	Erreger und Resistenz Pilze
 MRSA:specimen:PCR	PCR MRSA Direktnachweis .
 MRGN:swab:cul:VRE	Multires.gramneg.Stäbe VRE
@@ -16,4 +16,4 @@ eubac:specimen:cul:eufung	Erreger und Resistenz Gram-Präparat Pilze Pilze erwei
 cla.tra:specimen:pcr	PCR auf Chlamydia trachomatis
 C.diff:stool:antigen&eubac:specimen:cul	Clostridium difficile Erreger und Resistenz
 eufung:swab:cul	Pilze Pilze erweitert
-	multiresistenter Pseudomonas
+p.aeru(MR):swab:cul	multiresistenter Pseudomonas
