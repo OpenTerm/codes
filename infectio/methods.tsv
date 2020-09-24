@@ -1,7 +1,8 @@
 OpenTerm	de	en
 pcr	Polymerase Kettenreaktion	polymerase chain reaction
-ig.g	IgG Antikörper	IgG antibodies
-ig.m	IgM Antikörper	IgM antibodies
+ig.e	Immunglobulin E Antikörper #Parasiten	IgE antibodies
+ig.g	Immunglobulin G Antikörper #Frühreaktion	IgG antibodies
+ig.m	Immunglobulin M Antikörper #Spätreaktion	IgM antibodies
 cult	Kultur	culture
-col.gram	Gram Färbung	gram
-col.ziehl	Ziehl-Neelsen Färbung	Ziehl
+color.gram	Gram Färbung	gram
+color.ziehl	Ziehl-Neelsen Färbung	Ziehl
