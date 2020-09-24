@@ -6,7 +6,7 @@ MRGN:swab:cul	multiresistente Erreger
 eubac:eufung:swab:cul	Erreger und Resistenz Pilze
 MRSA:specimen:PCR	PCR MRSA Direktnachweis .
 MRGN:swab:cul:VRE	Multires.gramneg.Stäbe VRE
-	Erreger und Resistenz Gram-Präparat
+eubac:swab:cul:gram	Erreger und Resistenz Gram-Präparat
 	Erreger und Resistenz Mycoplasmen / Ureaplasmen
 MRSA:swab:PCR	MRSA PCR MRSA Direktnachweis .
 	Endokarditis Erreger und Resistenz
