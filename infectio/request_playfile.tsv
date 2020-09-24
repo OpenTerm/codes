@@ -1,7 +1,7 @@
 OpenTerm	de
 MRSA:swab:cul	Nase/Rachen Abstrich auf MRSA
-eubac:<specimen>:cul	Erreger und Resistenz
-	VRE
+eubac:specimen:cul	Erreger und Resistenz
+VRE:swab:cul	VRE
 	multiresistente Erreger
 	Erreger und Resistenz Pilze
 	PCR MRSA Direktnachweis .
