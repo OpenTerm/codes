@@ -1,3 +1,3 @@
-Anforderung(Erklärung)	Erreger	Material	Methode	Code	
-Nase/Rachen Abstrich auf MRSA	MRSA	Abstrich	Kultur	
-Nase/Rachen (Schnelltest) Abstrich auf MRSA	MRSA	Abstrich PCR	
+OpenTerm  Anforderung(Erklärung)	Erreger	Material	Methode		
+MRSA:swab:culture  Nase/Rachen Abstrich auf MRSA	MRSA	Abstrich	Kultur	
+MRSA:swab:PCR  Nase/Rachen (Schnelltest) Abstrich auf MRSA	MRSA	Abstrich PCR	
