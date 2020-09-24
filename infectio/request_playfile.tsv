@@ -3,9 +3,9 @@ MRSA:swab:cul	Nase/Rachen Abstrich auf MRSA
 eubac:specimen:cul	Erreger und Resistenz
 VRE:swab:cul	VRE
 MRGN:swab:cul	multiresistente Erreger
-eubac:swab:cul&eufung:swab:cul	Erreger und Resistenz Pilze
+eubac:eufung:swab:cul	Erreger und Resistenz Pilze
 MRSA:specimen:PCR	PCR MRSA Direktnachweis .
-MRGN:swab:cul&VRE:swab:cul	Multires.gramneg.Stäbe VRE
+MRGN:swab:cul:VRE	Multires.gramneg.Stäbe VRE
 	Erreger und Resistenz Gram-Präparat
 	Erreger und Resistenz Mycoplasmen / Ureaplasmen
 MRSA:swab:PCR	MRSA PCR MRSA Direktnachweis .
