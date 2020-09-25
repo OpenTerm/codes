@@ -1,19 +1,19 @@
-OpenTerm	de
-Sta.aur(MR):swab:cul	Nase/Rachen Abstrich auf MRSA
-eubac:specimen:cul	Erreger und Resistenz
-Ent.fae(MR):Ent.fac(MR):swab:cul	VRE
-eugn(MR):swab:cul	multiresistente Erreger
-eubac:eufung:swab:cul	Erreger und Resistenz Pilze
-MRSA:specimen:PCR	PCR MRSA Direktnachweis .
-MRGN:swab:cul:VRE	Multires.gramneg.Stäbe VRE
-eubac:swab:cul:gram	Erreger und Resistenz Gram-Präparat
-eubac:mycopla:ureaplas	Erreger und Resistenz Mycoplasmen / Ureaplasmen
-MRSA:swab:PCR	MRSA PCR MRSA Direktnachweis .
-Sta.aur:Ent.fac:HACEK:specimen:cul	Endokarditis Erreger und Resistenz
-C.diff:stool:antigen	Clostridium difficile
-eubac:specimen:cul:eufung	Erreger und Resistenz Gram-Präparat Pilze Pilze erweitert
-	CF Cystische Fibrose
-cla.tra:specimen:pcr	PCR auf Chlamydia trachomatis
-C.diff:stool:antigen&eubac:specimen:cul	Clostridium difficile Erreger und Resistenz
-eufung:swab:cul	Pilze Pilze erweitert
-p.aeru(MR):swab:cul	multiresistenter Pseudomonas
+OpenTerm	de	explanation
+Sta.aur(MR):swab:cul	Nase/Rachen Abstrich auf MRSA	test
+eubac:specimen:cul	Erreger und Resistenz	
+Ent.fae(MR):Ent.fac(MR):swab:cul	VRE	
+eugn(MR):swab:cul	multiresistente Erreger	
+eubac:eufung:swab:cul	Erreger und Resistenz Pilze	
+MRSA:specimen:PCR	PCR MRSA Direktnachweis .	
+MRGN:swab:cul:VRE	Multires.gramneg.Stäbe VRE	
+eubac:swab:cul:gram	Erreger und Resistenz Gram-Präparat	
+eubac:mycopla:ureaplas	Erreger und Resistenz Mycoplasmen / Ureaplasmen	
+MRSA:swab:PCR	MRSA PCR MRSA Direktnachweis .	
+Sta.aur:Ent.fac:HACEK:specimen:cul	Endokarditis Erreger und Resistenz	
+C.diff:stool:antigen	Clostridium difficile	
+eubac:specimen:cul:eufung	Erreger und Resistenz Gram-Präparat Pilze Pilze erweitert	
+	CF Cystische Fibrose	
+cla.tra:specimen:pcr	PCR auf Chlamydia trachomatis	
+C.diff:stool:antigen&eubac:specimen:cul	Clostridium difficile Erreger und Resistenz	
+eufung:swab:cul	Pilze Pilze erweitert	
+p.aeru(MR):swab:cul	multiresistenter Pseudomonas	
