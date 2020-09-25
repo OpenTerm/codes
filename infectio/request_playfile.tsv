@@ -1,6 +1,6 @@
 OpenTerm	de	explanation
-Sta.aur(MR):swab:cul	Nase/Rachen Abstrich auf MRSA	test
-eubac:specimen:cul	Erreger und Resistenz	
+Sta.aur(MR):swab:cul	Nase/Rachen Abstrich auf MRSA	klassischer Screening Abstrich mit folgender kultureller Anzucht, ohne PCR Schnelltest, das (MR) steht für Multiresistenz, im FAlle von Staphyoloccus aureus also MRSA
+eubac:specimen:cul	Erreger und Resistenz	'eubac' als Kodierung für alle Bakterien!, klassischerweise gehören zu den Erregern auch Pilze, also ggf. neben eubac auch 'eufung'
 Ent.fae(MR):Ent.fac(MR):swab:cul	VRE	
 eugn(MR):swab:cul	multiresistente Erreger	
 eubac:eufung:swab:cul	Erreger und Resistenz Pilze	
