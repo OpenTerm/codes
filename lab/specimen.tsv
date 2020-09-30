@@ -1,0 +1,40 @@
+OpenTerm	Material	Methode	Ort	opusID	description
+		swab		ao	Abstrich-oberflächlich
+	sang			bkpaar	BK Paar Blut aerob u. anaerob
+	urin			ums	Mittelstrahl-Urin
+	tela			gew	Gewebe
+	secr		trach	psts	Trachealsekret
+	secr	punc		ps	Punktat/Sekret
+	sang			bkped	Blutkulturflasche Peds Kinder
+				fk	Fremdkörper
+	urin	cath+		udk	Dauerkatheter-Urin
+	urin	cath1		uk	Einmalkatheter-Urin
+				at	Abstrich-tief/intra-OP
+	faec			stea	Stuhl, Enteritis-ambulant erworbene
+				atp	Abstrich-tief/intra-OP
+	secr		bron	psbr	Bronchialsekret
+	faec			stnos	Stuhl, Enteritis-nosokomial erworben
+				psbal	bronchoalveoläre Lavage (BAL)
+	secr	punc		psp	Punktat/Sekret
+	faec			stei	Stuhl, Einzelanforderung
+	sang			bkpi	Blutkulturflasche Pilze Mycosis
+	faec			stsc	Stuhl Screening
+				aop	Abstrich-oberflächlich
+	sput			psspu	Sputum
+	urin			uso	Urin - sonstige
+				atg	Abstrich-tief/intra-OP Pilze,Gardnerella
+	tela			gewp	Gewebe und Pilze
+	faec			steis	Stuhl, Enteritis unter Immunsuppression
+	sang			edta	EDTA-Blut
+				aog	Abstrich-oberflächlich
+	sang			bktb	Blutkulturflasche TBC MycoF-Lytic
+	sang			bkaer	Blutkulturflasche aerob
+				pspb	Protected Brush
+	secr			psnas	Nasensekret
+				ankleb	Analklebestreifen (Enterobius sp.)
+	verm			wue	Würmer
+		punc		ubp	Blasenpunktion (suprapubisch)
+	faec			steat	Stuhl, Enteritis nach Tropenaufenthalt
+	secr			Sekret	Sekret
+	tela			gewpg	Gewebe Pilze u. Gardnerella
+					
