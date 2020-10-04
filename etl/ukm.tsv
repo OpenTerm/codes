@@ -1,0 +1,226 @@
+count	percent	openTerm	request
+15193	38.82%	bac cult ab bac.strep cult -ab bac.strep.pneu cult ab	Erreger und Resistenz
+13594	34.74%	sta.au:mr cult ab	MRSA
+3075	7.86%	bac.gn.mr cult	Multires.gramneg.Stäbe
+1749	4.47%	bac.ent.fac.mr cult ent.fic:mr cult	VRE
+774	1.98%	germ:resist:fung	Erreger und Resistenz Pilze
+759	1.94%		Multires.gramneg.Stäbe VRE
+536	1.37%	bac cult ab gram	Erreger und Resistenz Gram-Präparat
+501	1.28%		Clostridium difficile Erreger und Resistenz
+407	1.04%	sta.au.mr pcr	PCR MRSA Direktnachweis .
+302	0.77%	aaa cult ab bbb cult ab ... endocartis	Endokarditis Erreger und Resistenz
+264	0.67%	clos.diff	Clostridium difficile
+240	0.61%	pseumo.mr	multiresistenter Pseudomonas
+122	0.31%		Legionellen-Nachweis
+121	0.31%	aaa cult ab bbb cult ab ...	Pilze Pilze erweitert
+116	0.30%	bac cult ab fung cult ab gram	Erreger und Resistenz Gram-Präparat Pilze
+98	0.25%		Erreger und Resistenz Gram-Präparat Pilze Pilze erweitert
+92	0.24%	mycoba.tuber pcr	PCR Mycobact.tuberculosis Direktnachweis Tuberkulose
+84	0.21%	sta.au.mr pcr	MRSA PCR MRSA Direktnachweis .
+81	0.21%	sta.au:mulres:pvl	S.aureus PVL positiv
+77	0.20%		Pilze
+64	0.16%		Erreger und Resistenz Legionellen-Nachweis
+58	0.15%		Tuberkulose
+37	0.09%	germ:resist:fungi.plus	Erreger und Resistenz Pilze Pilze erweitert
+35	0.09%		Clostridium difficile VRE
+31	0.08%		Pneumocystis carinii/jiroveci
+28	0.07%		Gram-Präparat
+26	0.07%		PCR Chlamydia pneumoniae
+26	0.07%		Erreger und Resistenz Gram-Präparat Pilze erweitert
+25	0.06%	pasi pcr	Parasiten
+24	0.06%		Clostridium difficile Erreger und Resistenz Pilze
+22	0.06%		Studie B
+21	0.05%		Multires.gramneg.Stäbe VRE multiresistenter Pseudomonas
+20	0.05%		Clostridium difficile multiresistenter Pseudomonas
+20	0.05%		Endokarditis
+17	0.04%		Multires.gramneg.Stäbe multiresistenter Pseudomonas
+17	0.04%		PCR auf Chlamydia trachomatis
+16	0.04%		Studie B VRE
+14	0.04%		Clostridium difficile VRE multiresistenter Pseudomonas
+13	0.03%		Clostridium difficile Multires.gramneg.Stäbe VRE
+13	0.03%		Clostridium difficile Erreger und Resistenz Parasiten Pilze
+12	0.03%		VRE multiresistenter Pseudomonas
+12	0.03%		PCR Toxoplasma gondii
+11	0.03%		Erreger und Resistenz Pilze erweitert
+11	0.03%		PCR Mycobact.tuberculosis Direktnachweis
+11	0.03%		Gram-Präparat Parasiten
+10	0.03%		CF Cystische Fibrose
+8	0.02%		Pilze erweitert
+8	0.02%		Erreger und Resistenz Legionellen-Nachweis Pilze
+8	0.02%		CF Cystische Fibrose Erreger und Resistenz
+8	0.02%		Erreger und Resistenz Gram-Präparat PCR auf Eubakterien PCR auf Pilze allgemein Pilze Pilze erweitert
+8	0.02%		Erreger und Resistenz Parasiten
+7	0.02%		Erreger und Resistenz Gram-Präparat PCR auf Eubakterien
+7	0.02%		PCR Tropheryma whipplei
+6	0.02%		Screening Pilze
+6	0.02%		Campylobacter Clostridium difficile Salmonellen Shigellen Yersinien
+6	0.02%		PCR Listeria monocytogenes PCR Toxoplasma gondii
+5	0.01%		Acinetobacter Multires.gramneg.Stäbe
+5	0.01%		PCR auf Eubakterien
+5	0.01%		Acanthamoeba
+5	0.01%		Clostridium difficile Screening Pilze VRE
+4	0.01%		Erreger und Resistenz S.aureus PVL positiv
+4	0.01%		Bruzellose Endokarditis Erreger und Resistenz
+4	0.01%		CF Cystische Fibrose Erreger und Resistenz Gram-Präparat
+4	0.01%		Campylobacter Clostridium difficile EHEC / EPEC Salmonellen Shigellen Yersinien
+4	0.01%		Campylobacter
+4	0.01%		Acanthamoeba Erreger und Resistenz Gram-Präparat PCR auf Eubakterien PCR auf Pilze allgemein Pilze Pilze erweitert
+4	0.01%		Erreger und Resistenz Pneumocystis carinii/jiroveci
+4	0.01%	strep:hemo	Hämolysierende Streptokokken
+4	0.01%		PCD Primary Ciliary Dyskinesia
+4	0.01%		PCR auf Chlamydia trachomatis PCR auf Neisseria gonorrhoeae
+4	0.01%		PCR Listeria monocytogenes
+3	0.01%		Erreger und Resistenz Pilze erweitert Pneumocystis carinii/jiroveci
+3	0.01%		Erreger und Resistenz Gram-Präparat PCR Listeria monocytogenes
+3	0.01%		Erreger und Resistenz Gram-Präparat Pilze Pneumocystis carinii/jiroveci
+3	0.01%		Clostridium difficile Erreger und Resistenz Parasiten
+3	0.01%		Clostridium difficile Multires.gramneg.Stäbe VRE multiresistenter Pseudomonas
+3	0.01%		Legionellen-Nachweis Mycoplasma / Ureaplasma
+3	0.01%		Clostridium difficile Salmonellen
+3	0.01%		Erreger und Resistenz Legionellen-Nachweis Mycoplasma / Ureaplasma
+3	0.01%		Erreger und Resistenz Hämolysierende Streptokokken
+3	0.01%		Clostridium difficile Multires.gramneg.Stäbe
+3	0.01%		MRSA Studie B
+3	0.01%		PCR auf Eubakterien PCR auf Pilze allgemein
+3	0.01%		Erreger und Resistenz Gram-Präparat Pilze Pilze erweitert Pneumocystis carinii/jiroveci
+3	0.01%		PCR auf Neisseria gonorrhoeae
+3	0.01%		Endocarditis Erreger und Resistenz
+3	0.01%		Mycoplasma / Ureaplasma
+3	0.01%		Erreger und Resistenz Gram-Präparat Pneumocystis carinii/jiroveci
+2	0.01%		Multires.gramneg.Stäbe Screening Pilze multiresistenter Pseudomonas
+2	0.01%		Erreger und Resistenz Gram-Präparat Legionellen-Nachweis Pilze Pilze erweitert Pneumocystis carinii/jiroveci
+2	0.01%		Campylobacter Multires.gramneg.Stäbe Salmonellen Shigellen Yersinien
+2	0.01%		Clostridium difficile Screening Pilze VRE multiresistenter Pseudomonas
+2	0.01%		Legionellen-Nachweis Pneumocystis carinii/jiroveci
+2	0.01%		Cryptococcus neoformans . PCR Toxoplasma gondii
+2	0.01%		Erreger und Resistenz Gram-Präparat Legionellen-Nachweis Pilze Pneumocystis carinii/jiroveci
+2	0.01%		Acanthamoeba Erreger und Resistenz Gram-Präparat Pilze Pilze erweitert
+2	0.01%		Clostridium difficile Multires.gramneg.Stäbe multiresistenter Pseudomonas
+2	0.01%		Clostridium difficile Screening Pilze
+2	0.01%		CF Cystische Fibrose Erreger und Resistenz Gram-Präparat Pilze
+2	0.01%		Erreger und Resistenz Mycoplasma / Ureaplasma PCR Chlamydia pneumoniae
+2	0.01%		Bruzellose Erreger und Resistenz
+2	0.01%		Erreger und Resistenz Gram-Präparat Legionellen-Nachweis Pilze
+2	0.01%		Erreger und Resistenz Gram-Präparat Legionellen-Nachweis Mycoplasma / Ureaplasma PCR Bordetella pertussis PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae PCR Ureapl.ureal. / Mycopl. pneumoniae Pilze Pneumocystis carinii/jiroveci
+2	0.01%		PCR Bordetella pertussis
+2	0.01%		Clostridium difficile Hämolysierende Streptokokken Multires.gramneg.Stäbe Screening Pilze VRE
+2	0.01%		Erreger und Resistenz Legionellen-Nachweis Pilze Pneumocystis carinii/jiroveci
+2	0.01%		Erreger und Resistenz Mycoplasma / Ureaplasma
+2	0.01%		Erreger und Resistenz PCR Toxoplasma gondii PCR Tropheryma whipplei Pilze
+2	0.01%		Erreger und Resistenz Hämolysierende Streptokokken Pilze
+2	0.01%		Clostridium difficile Parasiten
+2	0.01%		Campylobacter Clostridium difficile Salmonellen Shigellen VRE Yersinien
+2	0.01%		Multires.gramneg.Stäbe Screening Pilze
+2	0.01%		Campylobacter Clostridium difficile Salmonellen Shigellen
+2	0.01%		PCR Mycoplasma pneumoniae
+2	0.01%		Clostridium difficile Salmonellen Yersinien
+2	0.01%		Campylobacter Clostridium difficile Salmonellen Shigellen VRE Vibrionen Yersinien multiresistenter Pseudomonas
+2	0.01%		Erreger und Resistenz PCR auf Eubakterien
+2	0.01%		Acanthamoeba Erreger und Resistenz Pilze
+2	0.01%		Erreger und Resistenz Gram-Präparat Parasiten Pilze
+2	0.01%		PCR Bartonella henselae
+2	0.01%		Leptospiren
+1	0.00%		Pilze Pilze erweitert Pneumocystis carinii/jiroveci
+1	0.00%		Campylobacter Clostridium difficile Multires.gramneg.Stäbe Salmonellen Shigellen VRE Yersinien
+1	0.00%		Erreger und Resistenz Gram-Präparat PCR Toxoplasma gondii Pilze
+1	0.00%		PCR Bartonella henselae PCR auf Eubakterien PCR nach Rücksprache
+1	0.00%		Erreger und Resistenz Gram-Präparat Mycoplasma / Ureaplasma Pilze Pneumocystis carinii/jiroveci
+1	0.00%		Clostridium difficile Parasiten Salmonellen Screening Pilze VRE
+1	0.00%		Legionellen-Nachweis Mycoplasma / Ureaplasma Pneumocystis carinii/jiroveci
+1	0.00%		Cryptococcus neoformans . Erreger und Resistenz Gram-Präparat PCR Toxoplasma gondii PCR auf Eubakterien
+1	0.00%		Erreger und Resistenz Gram-Präparat Pilze erweitert S.aureus PVL positiv
+1	0.00%		Acinetobacter Hämolysierende Streptokokken Multires.gramneg.Stäbe Screening Pilze VRE multiresistenter Pseudomonas
+1	0.00%		Erreger und Resistenz Gonokokken Pilze
+1	0.00%		Erreger und Resistenz Gram-Präparat Legionellen-Nachweis Pilze Pilze erweitert
+1	0.00%		Erreger und Resistenz Gram-Präparat Legionellen-Nachweis
+1	0.00%		Erreger und Resistenz Mycoplasma / Ureaplasma PCR Chlamydia pneumoniae Pneumocystis carinii/jiroveci
+1	0.00%		Legionellen-Nachweis PCR Ureapl.ureal. / Mycopl. pneumoniae
+1	0.00%		Erreger und Resistenz Gram-Präparat Legionellen-Nachweis Mycoplasma / Ureaplasma Pneumocystis carinii/jiroveci
+1	0.00%		CF Cystische Fibrose Erreger und Resistenz Gram-Präparat Pilze Pilze erweitert
+1	0.00%		CF Cystische Fibrose Erreger und Resistenz Pilze Pilze erweitert
+1	0.00%		Erreger und Resistenz Legionellen-Nachweis PCR Ureapl.ureal. / Mycopl. pneumoniae Pilze Pneumocystis carinii/jiroveci
+1	0.00%		Clostridium difficile Salmonellen VRE
+1	0.00%		Acinetobacter Hämolysierende Streptokokken Multires.gramneg.Stäbe multiresistenter Pseudomonas
+1	0.00%		Acinetobacter Multires.gramneg.Stäbe VRE multiresistenter Pseudomonas
+1	0.00%		Acinetobacter Multires.gramneg.Stäbe multiresistenter Pseudomonas
+1	0.00%		Campylobacter EHEC / EPEC Salmonellen Screening Pilze Shigellen VRE
+1	0.00%		Campylobacter Salmonellen Screening Pilze Shigellen VRE
+1	0.00%		EHEC / EPEC
+1	0.00%		Acinetobacter Campylobacter Clostridium difficile Multires.gramneg.Stäbe Salmonellen Shigellen VRE Yersinien multiresistenter Pseudomonas
+1	0.00%		Clostridium difficile Salmonellen Shigellen Yersinien multiresistenter Pseudomonas
+1	0.00%		Erreger und Resistenz Gram-Präparat PCR Toxoplasma gondii Pilze erweitert
+1	0.00%		Cryptococcus neoformans . Erreger und Resistenz PCR Toxoplasma gondii Parasiten Pilze
+1	0.00%		Erreger und Resistenz PCR Listeria monocytogenes
+1	0.00%		Clostridium difficile Shigellen Yersinien
+1	0.00%		Erreger und Resistenz Gram-Präparat Mycoplasma / Ureaplasma Pilze Pilze erweitert Pneumocystis carinii/jiroveci
+1	0.00%		PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae
+1	0.00%		Clostridium difficile Salmonellen Shigellen Yersinien
+1	0.00%		Erreger und Resistenz Parasiten Pilze
+1	0.00%		Erreger und Resistenz Pilze Pilze erweitert S.aureus PVL positiv
+1	0.00%		Cryptosporidien / Giardia lambia Erreger und Resistenz Pilze Pilze erweitert
+1	0.00%		Campylobacter Clostridium difficile Parasiten Salmonellen Shigellen Yersinien
+1	0.00%		. MRSA
+1	0.00%		Clostridium difficile Erreger und Resistenz Hämolysierende Streptokokken Parasiten Pilze
+1	0.00%		Acinetobacter Clostridium difficile Cryptosporidien / Giardia lambia Hämolysierende Streptokokken Multires.gramneg.Stäbe Multires.gramneg.Stäbe NeoPäd Parasiten Salmonellen Screening Pilze VRE multiresistenter Pseudomonas
+1	0.00%		Clostridium difficile Cryptosporidien / Giardia lambia Parasiten Salmonellen VRE
+1	0.00%		Erreger und Resistenz PCR auf Pilze allgemein Pilze Pilze erweitert
+1	0.00%		Erreger und Resistenz pilze
+1	0.00%		Cryptococcus neoformans . Erreger und Resistenz Gram-Präparat Legionellen-Nachweis PCR auf Eubakterien PCR auf Pilze allgemein Parasiten
+1	0.00%		Legionellen-Nachweis Leptospiren
+1	0.00%		Acinetobacter Clostridium difficile VRE multiresistenter Pseudomonas
+1	0.00%		Clostridium difficile Parasiten Salmonellen
+1	0.00%		Erreger und Resistenz Gram-Präparat PCR Chlamydia pneumoniae
+1	0.00%		Clostridium difficile Parasiten Pilze
+1	0.00%		Erreger und Resistenz Gram-Präparat PCR Borrelia burgdorferi PCR Listeria monocytogenes PCR Toxoplasma gondii Pilze
+1	0.00%		Erreger und Resistenz Pilze Pneumocystis carinii/jiroveci
+1	0.00%		Cryptococcus neoformans . Erreger und Resistenz Gram-Präparat PCR Listeria monocytogenes Pilze Pilze erweitert
+1	0.00%		Erreger und Resistenz PCR Chlamydia pneumoniae Pilze
+1	0.00%		Malaria
+1	0.00%		Campylobacter Clostridium difficile Salmonellen Shigellen Vibrionen Yersinien multiresistenter Pseudomonas
+1	0.00%		Cryptococcus neoformans . PCR Listeria monocytogenes PCR Toxoplasma gondii PCR Tropheryma whipplei PCR auf Eubakterien PCR auf Pilze allgemein
+1	0.00%		Salmonellen
+1	0.00%		Cryptococcus neoformans .
+1	0.00%		Hämolysierende Streptokokken Multires.gramneg.Stäbe VRE
+1	0.00%		Erreger und Resistenz Gram-Präparat Pilze erweitert atypischeMykobakterien
+1	0.00%		Erreger und Resistenz PCR auf Eubakterien PCR auf Pilze allgemein Pilze erweitert
+1	0.00%		Cryptosporidien / Giardia lambia
+1	0.00%		Cryptococcus neoformans . Erreger und Resistenz Gram-Präparat Pilze
+1	0.00%		Acinetobacter Clostridium difficile
+1	0.00%		PCR auf Eubakterien PCR auf Pilze allgemein Pilze Pilze erweitert
+1	0.00%		Cryptococcus neoformans . Erreger und Resistenz Gram-Präparat PCR Toxoplasma gondii PCR auf Pilze allgemein Pilze Pilze erweitert
+1	0.00%		Erreger und Resistenz Gonokokken Mycoplasma / Ureaplasma Pilze
+1	0.00%		Cryptococcus neoformans . Erreger und Resistenz Gram-Präparat Legionellen-Nachweis PCR Toxoplasma gondii Parasiten Pilze Pilze erweitert
+1	0.00%		Campylobacter Clostridium difficile Salmonellen Shigellen Vibrionen Yersinien
+1	0.00%		Campylobacter Clostridium difficile Multires.gramneg.Stäbe Salmonellen Shigellen VRE Yersinien multiresistenter Pseudomonas
+1	0.00%		Hämolysierende Streptokokken Multires.gramneg.Stäbe
+1	0.00%		PCR auf Pilze allgemein
+1	0.00%		PCR Toxoplasma gondii PCR auf Pilze allgemein
+1	0.00%		Cryptococcus neoformans . Legionellen-Nachweis PCR Listeria monocytogenes PCR auf Eubakterien PCR auf Pilze allgemein Parasiten Pilze
+1	0.00%		Campylobacter Salmonellen Shigellen Yersinien
+1	0.00%		Erreger und Resistenz Gram-Präparat PCR auf Eubakterien PCR auf Pilze allgemein Pilze
+1	0.00%		Endokarditis Erreger und Resistenz Pilze
+1	0.00%		Parasiten Screening Pilze
+1	0.00%		Erreger und Resistenz Mycoplasma / Ureaplasma Pilze
+1	0.00%		Erreger und Resistenz Gram-Präparat PCR Borrelia burgdorferi PCR Listeria monocytogenes PCR Mycoplasma pneumoniae PCR Toxoplasma gondii
+1	0.00%		
+1	0.00%		Erreger und Resistenz Gram-Präparat PCR Borrelia burgdorferi PCR Chlamydia pneumoniae PCR Listeria monocytogenes PCR Mycoplasma pneumoniae PCR Tropheryma whipplei PCR Ureapl.ureal. / Mycopl. pneumoniae PCR auf Eubakterien PCR auf Pilze allgemein Parasiten Pilze Pilze erweitert
+1	0.00%		Erreger und Resistenz PCR auf Eubakterien Pilze
+1	0.00%		Clostridium difficile Multires.gramneg.Stäbe Multires.gramneg.Stäbe NeoPäd VRE multiresistenter Pseudomonas
+1	0.00%		Campylobacter Clostridium difficile Salmonellen Shigellen VRE Vibrionen Yersinien
+1	0.00%		Erreger und Resistenz Legionellen-Nachweis PCR Ureapl.ureal. / Mycopl. pneumoniae
+1	0.00%		Cryptococcus neoformans . Erreger und Resistenz Pilze
+1	0.00%		Cryptococcus neoformans . PCR auf Eubakterien
+1	0.00%		PCR auf Eubakterien PCR auf Pilze allgemein Pilze
+1	0.00%		Clostridium difficile Multires.gramneg.Stäbe Screening Pilze VRE
+1	0.00%		Acinetobacter Campylobacter Cryptosporidien / Giardia lambia Parasiten Salmonellen Shigellen Yersinien
+1	0.00%		PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae Pneumocystis carinii/jiroveci
+1	0.00%		PCR Ureapl.ureal. / Mycopl. pneumoniae
+1	0.00%		Clostridium difficile Salmonellen Shigellen
+1	0.00%		Erreger und Resistenz Legionellen-Nachweis PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae
+1	0.00%		Gram-Präparat PCR Listeria monocytogenes
+1	0.00%		Erreger und Resistenz Gram-Präparat Hämolysierende Streptokokken
+1	0.00%		Erreger und Resistenz PCR Chlamydia pneumoniae PCR Mycoplasma pneumoniae PCR auf Eubakterien Pilze
+1	0.00%		PCR Tropheryma whipple
+1	0.00%		Clostridium difficile Multires.gramneg.Stäbe Screening Pilze
+1	0.00%		Erreger und Resistenz Gram-Präparat PCR Listeria monocytogenes PCR auf Eubakterien PCR auf Pilze allgemein
+1	0.00%		Erreger und Resistenz PCR Mycoplasma pneumoniae PCR Ureapl.ureal. / Mycopl. pneumoniae
