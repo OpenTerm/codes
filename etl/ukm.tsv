@@ -1,14 +1,14 @@
 count	percent	OpenTerm	de
-15193	38.82%	bac cult ab bac.strep cult -ab bac.strep.pneu cult ab	Erreger und Resistenz
+15193	38.82%	bac cult ab \ bac.strep cult -ab \ bac.strep.pneu cult ab	Erreger und Resistenz
 13594	34.74%	sta.au:mr cult ab	MRSA
 3075	7.86%	bac.gn.mr cult	Multires.gramneg.Stäbe
-1749	4.47%	bac.ent.fac.mr cult ent.fic:mr cult	VRE
+1749	4.47%	bac.ent.fac.mr cult \ ent.fic:mr cult	VRE
 774	1.98%	germ:resist:fung	Erreger und Resistenz Pilze
 759	1.94%		Multires.gramneg.Stäbe VRE
 536	1.37%	bac cult ab gram	Erreger und Resistenz Gram-Präparat
 501	1.28%		Clostridium difficile Erreger und Resistenz
 407	1.04%	sta.au.mr pcr	PCR MRSA Direktnachweis .
-302	0.77%	aaa cult ab bbb cult ab ... endocartis	Endokarditis Erreger und Resistenz
+302	0.77%	aaa cult ab \ bbb cult ab \ ... \ endocartis	Endokarditis Erreger und Resistenz
 264	0.67%	clos.diff	Clostridium difficile
 240	0.61%	pseumo.mr	multiresistenter Pseudomonas
 122	0.31%		Legionellen-Nachweis
