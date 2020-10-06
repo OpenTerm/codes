@@ -1,10 +1,10 @@
 OpenTerm	la	SNOMED
 		
 eubac	alle Bakterien	??
-eugn	alle Gram negativen Bakterien
-eugp	alle Gram positiven Bakterien
+eugn	alle Gram negativen Bakterien	
+eugp	alle Gram positiven Bakterien	
 		
-
+		
 staphy.	staphylococcus species	
 staphy.arle	staphylococcus arlettae	
 staphy.aure	staphylococcus aureus	3092008
